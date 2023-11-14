@@ -1,0 +1,13 @@
+C:\Users\Ann\Documents\Lab\Priority Thread\Creating Text File\Creating Text File\bin\Debug\Creating Text File.exe.config
+C:\Users\Ann\Documents\Lab\Priority Thread\Creating Text File\Creating Text File\bin\Debug\Creating Text File.exe
+C:\Users\Ann\Documents\Lab\Priority Thread\Creating Text File\Creating Text File\bin\Debug\Creating Text File.pdb
+C:\Users\Ann\Documents\Lab\Priority Thread\Creating Text File\Creating Text File\obj\Debug\Creating Text File.csproj.AssemblyReference.cache
+C:\Users\Ann\Documents\Lab\Priority Thread\Creating Text File\Creating Text File\obj\Debug\Creating Text File.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ann\Documents\Lab\Priority Thread\Creating Text File\Creating Text File\obj\Debug\Creating_Text_File.FrmLab1.resources
+C:\Users\Ann\Documents\Lab\Priority Thread\Creating Text File\Creating Text File\obj\Debug\Creating_Text_File.FrmFileName.resources
+C:\Users\Ann\Documents\Lab\Priority Thread\Creating Text File\Creating Text File\obj\Debug\Creating_Text_File.FrmRegistration.resources
+C:\Users\Ann\Documents\Lab\Priority Thread\Creating Text File\Creating Text File\obj\Debug\Creating_Text_File.Properties.Resources.resources
+C:\Users\Ann\Documents\Lab\Priority Thread\Creating Text File\Creating Text File\obj\Debug\Creating Text File.csproj.GenerateResource.cache
+C:\Users\Ann\Documents\Lab\Priority Thread\Creating Text File\Creating Text File\obj\Debug\Creating Text File.csproj.CoreCompileInputs.cache
+C:\Users\Ann\Documents\Lab\Priority Thread\Creating Text File\Creating Text File\obj\Debug\Creating Text File.exe
+C:\Users\Ann\Documents\Lab\Priority Thread\Creating Text File\Creating Text File\obj\Debug\Creating Text File.pdb
